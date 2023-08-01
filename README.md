@@ -1,5 +1,5 @@
 # saunya
-Welcome to the Fullstack E-commerce App Saunya! This project is an end-to-end e-commerce application built with Spring Boot, Docker, Angular, jJavascript, Html5, Css3, Tailwind, MySQL. The app aims to provide a seamless shopping experience for users, enabling them to browse through a wide range of cosmetic products, make purchases, and manage their orders with ease.
+Welcome to the Fullstack E-commerce App Saunya! This project is an end-to-end e-commerce application built with Spring Boot, Docker, Angular, Javascript, Html5, Css3, Tailwind, MySQL. The app aims to provide a seamless shopping experience for users, enabling them to browse through a wide range of cosmetic products, make purchases, and manage their orders with ease.
 
 Features
 User Authentication: Secure user registration and login functionality to ensure data privacy(JWT, OAUTH 2.0).
